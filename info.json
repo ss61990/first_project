@@ -1,4 +1,5 @@
-{
+[
+    {
     "name": "Jimmi",
     "species": "dog",
     "favfood": "soyabeans"
@@ -18,3 +19,4 @@
     "species": "dog",
     "favfood": "Pedigree"
     }
+]    
